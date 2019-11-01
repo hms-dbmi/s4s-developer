@@ -5,4 +5,4 @@ DBMI for evaluation.
 
 For Part 1 use Python3 and the requirements file included in this repo to setup your virutal environment. 
 
-For Part 2, we request that you use either Python or Javascript but choice over version is up to you.  
+For Part 2, we request that you use either Python or Javascript but choice of version is up to you.  
